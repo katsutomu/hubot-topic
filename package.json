@@ -1,0 +1,27 @@
+{
+  "name": "hubot-topic",
+  "version": "0.0.2",
+  "description": "Hubot script for response on multiple",
+  "main": "scripts/hubot-topic.coffee",
+  "repository": {
+    "type": "git"
+  },
+  "keywords": [
+    "hubot",
+    "topics"
+  ],
+  "author": "@katsutomu",
+  "license": "MIT",
+  "dependencies": {
+    "coffee-script": "^1.10.0"
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "devDependencies": {
+    "coffee-script": "^1.10.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
